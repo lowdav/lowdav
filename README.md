@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 
-Uppgiften går ut på att:
+Hej, 
 
-* Skapa en readme-fil, alltså *den text du nu läser*. 
+Jag använder GitHub för studier i webbutveckling på Mittuniversitetet.
 
-* Dessutom att skapa ett nytt repository.
-  Det har jag gjort här: https://github.com/lowdav/miun.git
+Mvh David
+
+
 
 
