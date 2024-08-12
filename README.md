@@ -3,7 +3,7 @@
 
 Hej, 
 
-Jag använder GitHub för studier i webbutveckling på Mittuniversitetet.
+Jag använder GitHub för studier i webbutveckling.
 
 Mvh David
 
